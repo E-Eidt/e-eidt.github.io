@@ -1,8 +1,0 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-
-
-title: Evan Eidt
-description: My Website
-google_analytics: G-YJLM1HKZF7
