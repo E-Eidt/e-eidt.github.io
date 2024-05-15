@@ -46,6 +46,11 @@ body {
     border-radius: 50px;
     font-weight: 600;
 }
+
+.card-list .article {
+    background-color: #E5F7F7; 
+    color: #3B3BBB;
+} 
 .card-list .developer {
     background-color: #F7DFF5; 
     color: #B22485;
