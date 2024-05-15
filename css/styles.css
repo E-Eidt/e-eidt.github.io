@@ -42,7 +42,7 @@ body {
     background: #F7DFF5;
     margin-top: 32px;
     padding: 8px 15px;
-    font-size: 0.75rem;
+    font-size: 1rem;
     border-radius: 50px;
     font-weight: 600;
 }
@@ -65,9 +65,9 @@ body {
 }
 .card-item h3 {
     color: #000;
-    font-size: 1.438rem;
+    font-size: 1.75rem;
     margin-top: 28px;
-    font-weight: 600;
+    font-weight: 500;
 }
 .card-item .arrow {
     display: flex;
